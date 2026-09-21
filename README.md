@@ -3,6 +3,8 @@ Officially supported shaders for [PanchoRing](https://github.com/CapNapu/PanchoR
 
 Forked from [MakeUp - UltraFast](https://github.com/javiergcim/MakeUpUltraFast/tree/legacy) by Javier Garduño
 
+Report any issue with this shaderpack [Here](https://github.com/CapNapu/PanchoRing/issues)
+
 # Changes
 
 ### Simplified Presets:
